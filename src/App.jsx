@@ -6,7 +6,7 @@ export default function App() {
     <div className="font-sans text-gray-800 bg-gray-50 min-h-screen text-base md:text-lg">
       {/* Hero Section */}
       <section className="bg-white py-20 px-4 shadow-sm">
-        <h1 className="text-4xl font-bold mb-2">Ravi Krishnan</h1>
+        <h1 className="text-4xl font-bold mb-2">Ravi Krishnan L</h1>
         <p className="text-xl text-gray-600">Design Leadership | Enterprise UX, Communication, Content Design</p>
       </section>
 
