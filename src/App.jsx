@@ -35,7 +35,7 @@ export default function App() {
             <h3 className="text-xl font-bold mb-1">Head of UX, Business Platforms</h3>
             <p className="text-sm text-gray-700 mb-2">Wipro – August 2013 to December 2018</p>
             <ul className="list-disc pl-5 text-sm text-gray-700 space-y-1">
-              <li><strong>BASE:</strong> Zero-touch Ops platform integrated with client IT stacks; 30+ customers in 11 countries.</li>
+              <li><strong>BASE:</strong> Zero-touch Bus Ops platform integrated with client IT stacks; 30+ customers in 11 countries.</li>
               <li><strong>HARMONY:</strong> SOP-level codification platform used by 8,000 users across 25 countries, enabling benchmarking by 30k+ users.</li>
               <li><strong>DELTAVERGE:</strong> Multi-party distribution platform designed for regulated sectors like pharma, telecom, FMCC.</li>
             </ul>
