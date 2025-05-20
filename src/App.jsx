@@ -112,9 +112,6 @@ export default function App() {
             <a href="https://www.linkedin.com/in/ravi-krishnan-l-05020119/" className="flex items-center gap-1 hover:text-blue-600"><Linkedin className="w-4 h-4"/>LinkedIn</a>
             <a href="https://instagram.com/lravikrishnan" className="flex items-center gap-1 hover:text-blue-600"><Instagram className="w-4 h-4"/>Instagram</a>
           </div>
-          <div className="bg-red-500 text-white p-4">
-            Tailwind is working now!
-          </div>
         </section>
       </div>
     </div>
