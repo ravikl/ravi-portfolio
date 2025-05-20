@@ -108,7 +108,6 @@ export default function App() {
           <p className="mb-6">Open to collaborations, mentorship, or just a friendly hello!</p>
           <div className="flex gap-6 flex-wrap text-sm">
             <a href="mailto:lravikrishnan@gmail.com" className="flex items-center gap-1 hover:text-blue-600"><Mail className="w-4 h-4"/>Email</a>
-            <a href="https://github.com/lravikrishnan" className="flex items-center gap-1 hover:text-blue-600"><Github className="w-4 h-4"/>GitHub</a>
             <a href="https://www.linkedin.com/in/ravi-krishnan-l-05020119/" className="flex items-center gap-1 hover:text-blue-600"><Linkedin className="w-4 h-4"/>LinkedIn</a>
             <a href="https://instagram.com/lravikrishnan" className="flex items-center gap-1 hover:text-blue-600"><Instagram className="w-4 h-4"/>Instagram</a>
           </div>
